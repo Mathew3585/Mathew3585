@@ -1,3 +1,4 @@
+![logo, width = "100"](https://github.com/Mathew3585/Mathew3585/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mathew Simon</h1>
 <h3 align="center">A passionate Unity and Unreal developer from France</h3>
 
