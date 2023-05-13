@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathew3585&label=Profile%20views&color=0e75b6&style=flat" alt="mathew3585" /> </p>
 
-- 🔭 I’m currently working on **Vr and pc games**
+- 🔭 I’m specialized on **Vr and Pc games**
 
-- 🌱 I’m currently learning **Unity , Unreal**
+- 🌱 I work with **Unity and Unreal**
 
 - 📫 How to reach me **mathew.simon2004@gmail.com**
 
