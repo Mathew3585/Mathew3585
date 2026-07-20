@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mathew Simon, développeur Unity" width="100%">
+  <img src="assets/banner.png" alt="Mathew Simon, développeur Unity" width="100%">
 </p>
 
 <p align="center">
@@ -8,28 +8,10 @@
   <a href="mailto:mathew.simon2004@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-C26B3D?style=flat-square&labelColor=2A2320" alt="Email"></a>
 </p>
 
-<br>
-
-<table>
-<tr>
-<td width="68%" valign="top">
-
-### Bonjour, moi c'est Mathew
-
-Développeur **Unity** spécialisé dans la conception de **jeux vidéo** et d'**expériences immersives**.
-
-Je travaille aussi bien le gameplay et les systèmes de jeu que l'optimisation temps réel, la connexion au matériel physique et l'intégration d'**IA en local**.
-
-Aujourd'hui **lead développeur** sur une installation immersive ouverte au public à Paris. À côté, je conçois mes propres outils et je publie une partie de mon travail en **open source**.
-
-J'aime les problèmes techniques exigeants : tenir un framerate en VR, faire dialoguer du code avec des capteurs bien réels, ou faire tourner un modèle d'IA sur une machine locale plutôt que dans le cloud.
-
-</td>
-<td width="32%" valign="top">
-<img src="assets/me.jpg" alt="Mathew Simon" width="100%">
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>Lead développeur</b> sur une installation immersive ouverte au public à Paris.<br>
+  Jeux, expériences immersives, outils sur mesure et IA en local, dont une partie en open source.
+</p>
 
 <br>
 
@@ -42,7 +24,7 @@ J'aime les problèmes techniques exigeants : tenir un framerate en VR, faire dia
 
 **[Pirate Experience](https://mathewsimon.tech/fr/projects/pirate-experience)**
 
-Action game immersif ouvert à Paris. Six salles, 2 à 6 joueurs, une heure d'aventure. **Lead dev** sur la création des jeux et leur connexion au matériel réel.
+Action game immersif ouvert à Paris. Six salles, 2 à 6 joueurs. **Lead dev** sur la création des jeux et leur connexion au matériel réel.
 
 `Unity` `C#` `Matériel interactif`
 
@@ -52,7 +34,7 @@ Action game immersif ouvert à Paris. Six salles, 2 à 6 joueurs, une heure d'av
 
 **[Zone 101](https://mathewsimon.tech/fr/projects/zone-101)**
 
-Arène de jeu immersive jusqu'à 6 joueurs : projection interactive de 4 mètres, dalles au sol réactives, buzzers lumineux et son spatialisé.
+Arène de jeu immersive jusqu'à 6 joueurs : projection interactive de 4 mètres, dalles au sol réactives, buzzers lumineux.
 
 `Unity` `C#` `IoT`
 
@@ -64,7 +46,7 @@ Arène de jeu immersive jusqu'à 6 joueurs : projection interactive de 4 mètres
 
 **[P'tit Bout de Lumière](https://mathewsimon.tech/fr/projects/ptit-bout-de-lumiere)**
 
-Expérience VR qui accompagne les enfants pendant leurs soins dentaires. J'y étais sur l'optimisation des performances et le pathfinding.
+Expérience VR qui accompagne les enfants pendant leurs soins dentaires. Optimisation des performances et pathfinding.
 
 `Unity` `C#` `VR`
 
@@ -74,7 +56,7 @@ Expérience VR qui accompagne les enfants pendant leurs soins dentaires. J'y ét
 
 **[ClipForge](https://mathewsimon.tech/fr/projects/clipforge)**
 
-Transforme une vidéo longue en shorts prêts à publier : sous-titres, suivi de visage, titres générés. Une alternative **100 % locale** à OpusClip.
+Transforme une vidéo longue en shorts prêts à publier : sous-titres, suivi de visage, titres générés. **100 % local**.
 
 `Ollama` `LLM local` `GPU`
 
@@ -86,7 +68,7 @@ Transforme une vidéo longue en shorts prêts à publier : sous-titres, suivi de
 
 **[Gestion des prix](https://mathewsimon.tech/fr/projects/gestion-des-prix)**
 
-App mobile de stock et de marges pour un client, adossée à un serveur installé dans ses locaux, avec synchronisation en temps réel entre les équipes.
+App mobile de stock et de marges pour un client, serveur installé dans ses locaux et synchronisation temps réel.
 
 `PocketBase` `Android` `Open Food Facts`
 
