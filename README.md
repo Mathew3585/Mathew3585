@@ -8,11 +8,6 @@
   <a href="mailto:mathew.simon2004@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-C26B3D?style=flat-square&labelColor=2A2320" alt="Email"></a>
 </p>
 
-<p align="center">
-  <b>Lead développeur</b> sur une installation immersive ouverte au public à Paris.<br>
-  Jeux, expériences immersives, outils sur mesure et IA en local, dont une partie en open source.
-</p>
-
 <br>
 
 ## Projets
