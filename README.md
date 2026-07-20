@@ -1,32 +1,106 @@
-![logo, width = "100"](https://github.com/Mathew3585/Mathew3585/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Mathew Simon</h1>
-<h3 align="center">A passionate Unity and Unreal developer from France</h3>
-
-<img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathew3585&label=Profile%20views&color=0e75b6&style=flat" alt="mathew3585" /> </p>
-
-- 🔭 I’m specialized on **Vr and Pc games**
-
-- 🌱 I work with **Unity and Unreal**
-
-- 📫 How to reach me **mathew.simon2004@gmail.com**
-
-- ⚡ Fun fact **I love coding and making games. I'm self-taught and thrive on the challenge of learning new languages and frameworks. I'm meticulous in my work and constantly striving to improve my skills as a developer. My ultimate goal is to create exciting and immersive games that captivate players worldwide**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/orionstudiogame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orionstudiogame" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathew-simon-ab18b4250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathew-simon-ab18b4250/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@oriongamestudio8184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oriongamestudio8184" height="30" width="40" /></a>
-<a href="https://discord.gg/Mathew Simon#5507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mathew Simon#5507" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Mathew Simon, développeur Unity" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://mathewsimon.tech"><img src="https://img.shields.io/badge/Portfolio-mathewsimon.tech-C26B3D?style=flat-square&labelColor=2A2320" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mathew-simon-ab18b4250/"><img src="https://img.shields.io/badge/LinkedIn-Mathew%20Simon-C26B3D?style=flat-square&labelColor=2A2320" alt="LinkedIn"></a>
+  <a href="mailto:mathew.simon2004@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-C26B3D?style=flat-square&labelColor=2A2320" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathew3585&show_icons=true&locale=en&layout=compact" alt="mathew3585" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathew3585&show_icons=true&locale=en" alt="mathew3585" /></p>
+Développeur **Unity** spécialisé dans la conception de jeux vidéo et d'expériences immersives.
+Je travaille aussi bien le gameplay que l'optimisation, la connexion au matériel physique et l'intégration d'IA locale.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathew3585&" alt="mathew3585" /></p>
+Actuellement **lead développeur** sur une installation immersive ouverte au public à Paris, et créateur d'outils que je publie en open source.
+
+<br>
+
+## Sélection de projets
+
+| Projet | Ce que c'est | Stack |
+| --- | --- | --- |
+| **[Pirate Experience](https://mathewsimon.tech/fr/projects/pirate-experience)** | Action game immersif à Paris, 6 salles, 2 à 6 joueurs. Lead dev sur la création des jeux et leur connexion au matériel réel. | Unity · C# · Matériel interactif |
+| **[Zone 101](https://mathewsimon.tech/fr/projects/zone-101)** | Arène de jeu immersive : projection interactive, sol réactif, buzzers lumineux, son 5.1. | Unity · C# · IoT |
+| **[P'tit Bout de Lumière](https://mathewsimon.tech/fr/projects/ptit-bout-de-lumiere)** | Expérience VR qui rassure les enfants chez le dentiste. Optimisation des performances et pathfinding. | Unity · C# · VR |
+| **[Gestion des prix](https://mathewsimon.tech/fr/projects/gestion-des-prix)** | App mobile de stock et de marges pour un client, serveur auto-hébergé et synchronisation temps réel. | PocketBase · Android |
+| **[ClipForge](https://mathewsimon.tech/fr/projects/clipforge)** | Découpe une vidéo longue en shorts prêts à publier, avec sous-titres et suivi de visage. 100 % local. | Ollama · GPU |
+| **[Color Collapse](https://play.google.com/store/apps/details?id=com.LodennStudio.MergeColor)** | Mon premier jeu mobile publié, sous le label Lodenn Studio. Plus de 3 500 téléchargements. | Unity · C# · Android |
+
+<p align="right"><a href="https://mathewsimon.tech/fr/projects"><b>Voir tous les projets</b></a></p>
+
+<br>
+
+## Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Hyperwisper](https://github.com/Mathew3585/hyperwisper)
+
+Dictée vocale **100 % hors ligne** pour Windows.
+Une touche, on parle, le texte se colle dans l'application active.
+
+Moins d'une seconde entre le relâchement de la touche et le texte affiché, grâce à l'accélération GPU.
+
+`Rust` `Tauri 2` `whisper.cpp` `Vulkan`
+
+<img src="https://img.shields.io/badge/licence-MIT-C26B3D?style=flat-square&labelColor=2A2320" alt="MIT">
+
+</td>
+<td width="50%" valign="top">
+
+### [Basilic](https://github.com/Mathew3585/Basilic-Pomodoro_App)
+
+Minuteur **Pomodoro** pensé pour se faire oublier.
+Une fenêtre de 260 x 120 dans un coin de l'écran, jamais dans le chemin.
+
+Sans compte, sans télémétrie, toutes les données restent en local.
+
+`Tauri 2` `React 19` `TypeScript`
+
+<img src="https://img.shields.io/badge/licence-MIT-C26B3D?style=flat-square&labelColor=2A2320" alt="MIT">
+
+</td>
+</tr>
+</table>
+
+Deux outils Unity également publiés sur l'**Asset Store** : [Easy Screenshot Tool](https://assetstore.unity.com/packages/tools/camera/easy-screenshot-tool-296926) (gratuit) et [GhostScriptRemover](https://assetstore.unity.com/packages/tools/utilities/ghostscriptremover-305607).
+
+<br>
+
+## Ce avec quoi je travaille
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-C26B3D?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-C26B3D?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C++-C26B3D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-C26B3D?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Tauri-C26B3D?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
+  <img src="https://img.shields.io/badge/TypeScript-C26B3D?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-C26B3D?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Blender-C26B3D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/Git-C26B3D?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Domaines** : gameplay et systèmes de jeu · VR et XR · optimisation temps réel · connexion au matériel physique · IA et LLM en local
+
+<br>
+
+## En chiffres
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathew3585&show_icons=true&hide_border=true&hide_title=true&bg_color=FAF6F0&icon_color=C26B3D&text_color=6F6154&title_color=C26B3D" alt="Statistiques GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathew3585&layout=compact&hide_border=true&hide_title=true&bg_color=FAF6F0&text_color=6F6154&title_color=C26B3D" alt="Langages les plus utilisés" height="150">
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <b>Ouvert aux opportunités.</b><br>
+  <a href="https://mathewsimon.tech">mathewsimon.tech</a> · <a href="mailto:mathew.simon2004@gmail.com">mathew.simon2004@gmail.com</a>
+</p>
